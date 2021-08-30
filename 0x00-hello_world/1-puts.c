@@ -1,8 +1,10 @@
 #include <stdio.h>
 
-/*
- * puts function
- */
+/**
+* main - Entry point
+* program to print exactly "Programming is like building a multilingual puzzle
+* Return: Always 0 (Success)
+*/
 
 int main(void)
 {

@@ -3,7 +3,7 @@
 /**
  * main - função de entrada
  * o programa irá mostrar o tamanho de determinados tipos de variável
- * Return: 0 
+ * Return:0
  */
 int main(void)
 {

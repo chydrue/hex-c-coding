@@ -3,9 +3,8 @@
 /**
  * main - função de entrada
  * o programa irá mostrar o tamanho de determinados tipos de variável
- * return: 0 
+ * Return: 0 
  */
-
 int main(void)
 {
 	printf("Size of a char: %d byte(s)\n", sizeof(char));

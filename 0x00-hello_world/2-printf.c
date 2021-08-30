@@ -3,7 +3,8 @@
 /**
  * main - Entry point
  * printf function
- */
+ * Return: sempre 0
+*/
 
 int main(void)
 {

@@ -13,14 +13,7 @@ int main(void)
 	int p;
 	srand(time(0));
 	n = rand() - RAND_MAX / 2;
-	if (n >= 0)
-	{
-		p = n % 10;
-	}
-	else
-	{
-		p = (n % 10)*-1;
-	}
+	p = n % 10;
 	
 	if (p > 5)
 	{
